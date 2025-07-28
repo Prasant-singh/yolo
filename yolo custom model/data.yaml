@@ -1,0 +1,10 @@
+
+
+train: C:\Users\s66\Desktop\Prasant\yolo\yolo custom model\datas\train
+test: C:\Users\s66\Desktop\Prasant\yolo\yolo custom model\datas\test
+val: C:\Users\s66\Desktop\Prasant\yolo\yolo custom model\datas\val
+# number of classes
+nc: 2 
+
+# class names
+names: ['box','button']

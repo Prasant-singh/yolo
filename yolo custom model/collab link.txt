@@ -1,0 +1,14 @@
+https://colab.research.google.com/drive/1LxRO6wfCjw_PAqcqIr-wTPJAnqnRI1Dn#scrollTo=qZG0GhBk8lLU
+
+got to collab directly
+
+or for vs code
+
+change the path in data.yaml file
+then run main.py
+and then go to predict.py
+
+
+yolo_custom_Model is performed o collab it is different file 
+
+IF YOU WANT TO RUN CODE ON VSCODE THEN DONT RUN YOLOCUSTOMMODEL.PY
